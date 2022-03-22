@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Projects\CustomerRelationshipManagement\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2255044073.index
+\crmapp\src\main\resources
+D:\Projects\CustomerRelationshipManagement\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\619517127.index
+\crmapp\src\main\resources
